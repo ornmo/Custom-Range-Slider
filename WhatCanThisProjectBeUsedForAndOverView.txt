@@ -1,0 +1,7 @@
+This project is  
+
+It uses Flexbox, CSS transitions and JavaScript
+
+This could be converted to be used in (for example) the following ways
+
+- 
