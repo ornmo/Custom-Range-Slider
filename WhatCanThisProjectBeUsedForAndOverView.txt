@@ -1,7 +1,10 @@
-This project is  
+This project is  a custom range slider.
 
-It uses Flexbox, CSS transitions and JavaScript
+It uses a lot of CSS for styling for dirrerent browsers 
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- ratings scores
+
+
+**NOTE: Because of how the slider display's across browsers - this project is going to take this all into account
